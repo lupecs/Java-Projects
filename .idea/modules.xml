@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ATMInterface/ATMInterface.iml" filepath="$PROJECT_DIR$/ATMInterface/ATMInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorApp/CalculatorApp.iml" filepath="$PROJECT_DIR$/CalculatorApp/CalculatorApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Projects.iml" filepath="$PROJECT_DIR$/.idea/Java Projects.iml" />
     </modules>
   </component>
